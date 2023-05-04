@@ -1,0 +1,1 @@
+<lora:animeLineartStyle_v20Offset:1>,monochrome,lineart

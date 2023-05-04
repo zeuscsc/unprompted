@@ -1,0 +1,1 @@
+<lora:aMechaMusumeA_arc:1>,mecha_musume,bodysuit

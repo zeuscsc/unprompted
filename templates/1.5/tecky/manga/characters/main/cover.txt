@@ -1,0 +1,2 @@
+[file characters/main/young/pos],(yellow black coat:1.2),(yellow black dress),military,futuristic,(war zone),laser,explosion,(close up),
+(looking at viewer),gun,fire,(stand straight:1.2)

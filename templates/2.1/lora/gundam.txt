@@ -1,0 +1,2 @@
+Artistic rendition of Mobile Suit Gundam, Mecha
+gundamoverdrive style<lora:djzGundamOverdrive_v21:1> and gundamart style<lora:djzGundamArtStyle_v21:1>

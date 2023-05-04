@@ -1,0 +1,1 @@
+<lora:adamsArtworkStyle_v01:1>,ajaws

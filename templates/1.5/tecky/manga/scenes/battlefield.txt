@@ -1,0 +1,1 @@
+laser,explosion,(Quadruped Robots),turret,cannon,ruin,desert,(exploding flighter)

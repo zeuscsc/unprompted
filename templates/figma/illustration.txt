@@ -1,0 +1,2 @@
+,(((lineart))),((low detail)),(simple),high contrast,sharp,2 bit
+,(((vector graphic))),medium detail

@@ -129,9 +129,5 @@ dmypy.json
 
 ##############
 
-# Templates
-/templates/*
-# Default Templates
-!/templates/common
 # clipseg weights
 /lib/clipseg/weights/*

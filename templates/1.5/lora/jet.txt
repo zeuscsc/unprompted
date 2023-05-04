@@ -1,0 +1,1 @@
+ <lora:fighterJetLora_fighterJet:1>,fighter jet,airplane,aircraft

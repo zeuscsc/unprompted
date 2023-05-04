@@ -1,0 +1,3 @@
+,.photo realistic, ultra details, natural light,
+,  octane, dimly lit, low key,
+, digital art, (photo, 80 mm, hyperrealistic, big depth of field, colors, hyperdetailed, hyperrealistic) , ((moody lighting)), (ambient light)
